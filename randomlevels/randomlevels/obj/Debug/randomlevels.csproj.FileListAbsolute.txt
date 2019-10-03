@@ -1,0 +1,7 @@
+C:\Users\fdumont\source\repos\randomlevels\randomlevels\obj\Debug\randomlevels.csprojAssemblyReference.cache
+C:\Users\fdumont\source\repos\randomlevels\randomlevels\obj\Debug\randomlevels.csproj.CoreCompileInputs.cache
+C:\Users\fdumont\source\repos\randomlevels\randomlevels\bin\Debug\randomlevels.exe.config
+C:\Users\fdumont\source\repos\randomlevels\randomlevels\bin\Debug\randomlevels.exe
+C:\Users\fdumont\source\repos\randomlevels\randomlevels\bin\Debug\randomlevels.pdb
+C:\Users\fdumont\source\repos\randomlevels\randomlevels\obj\Debug\randomlevels.exe
+C:\Users\fdumont\source\repos\randomlevels\randomlevels\obj\Debug\randomlevels.pdb
