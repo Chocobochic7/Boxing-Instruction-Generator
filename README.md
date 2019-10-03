@@ -1,4 +1,4 @@
-# Boxing-Instruction-Generator
+# Boxing Instruction Generator
 C# code that outputs random boxing instructions for different levels
 
 There are three sections of the output; low, medium, high. each section pulls from a set of arrays corresponding with its levels and the levels below it.
